@@ -2,3 +2,4 @@ node_modules
 
 # Config files
 config/general.js
+config/database.js
