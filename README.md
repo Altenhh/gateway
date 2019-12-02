@@ -3,7 +3,7 @@
 The gateway for Momiji, an upcoming multi-purpose Discord bot for general usage, whether it be game info grabbing or leaderboards. This gateway and API exists as a central for getting, and adding to data stored in a MySQL database to keep functionality with most features.
 
 # Requirements
-- >= Node.js v10
+- \>= Node.js v10
 
 # Contributing
 The team over at MD appreciates contributions to the code, but it's better to keep it within a PR (Pull Request), with our knowledge and consent over on our discord server.
